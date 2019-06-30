@@ -1,0 +1,8 @@
+﻿WinHex 19.8 x86
+2019/06/05  16:58:05  WinHex "*" is an invalid character.
+WinHex 19.8 x86
+2019/06/08  11:53:55  Error Invalid input.
+2019/06/08  11:54:27  Error Invalid input.
+WinHex 19.8 x86
+2019/06/08  19:04:44  fat16.img The file does not contain offset 134434816.
+2019/06/08  19:05:00  fat16.img The file does not contain offset 134434000.
